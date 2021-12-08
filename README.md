@@ -95,3 +95,7 @@ Execute o comando:
 ```shell
 confluent local destroy
 ```
+
+## Acessar Control Center do Confluent Local
+
+[http://127.0.0.1:9021/](http://127.0.0.1:9021/)
