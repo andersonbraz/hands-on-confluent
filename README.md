@@ -72,7 +72,7 @@ Execute o comando:
 confluent local services start
 ```
 
-## Parae Confluent Local
+## Parar Confluent Local
 
 Execute o comando:
 
